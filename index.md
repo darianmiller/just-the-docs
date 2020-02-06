@@ -22,7 +22,7 @@ Dark theme by default
 {: .fs-6 } 
 ![Dark Mode Screenshot](/assets/images/universalmarkupeditor_darkmode_markupconverter_choices.png)
 
-Light theme also available
+Light theme also available, set via menu or hotkey **CTRL-D** 
 {: .fs-6 }
 ![Configurable Options Screenshot](/assets/images/markup_screenshots/cmark-gfm-options.png)
 
