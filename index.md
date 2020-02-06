@@ -13,10 +13,11 @@ Edit multiple flavors of lightweight markup languages with live HTML preview
 {: .fs-6 .fw-300 }
 
 [Buy It Now](https://www.microsoft.com/en-us/store/apps/windows/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 Coming soon
 {: .label .label-yellow }
 ---
-![Example Screenshot](/assets/images/just-the-docs.png)
+![Example Screenshot](/assets/images/markup_screenshots/cmark-gfm-options.png)
 
 ---
 
