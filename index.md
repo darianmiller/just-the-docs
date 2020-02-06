@@ -9,7 +9,7 @@ permalink: /
 # Universal Markup Editor for Windows
 {: .fs-9 }
 
-Edit multiple flavors of lightweight markup languages with live HTML preview
+Windows text editor supporting mulitiple flavors of markup with live HTML preview
 {: .fs-6 .fw-300 }
 
 [Buy It Now](https://www.microsoft.com/en-us/store/apps/windows/){: .btn .fs-5 .mb-4 .mb-md-0 }
@@ -18,7 +18,12 @@ Coming soon
 {: .label .label-yellow }
 
 
+Dark Theme
+{: .fs-7 }
 ![Dark Mode Screenshot](/assets/images/universalmarkupeditor_darkmode_markupconverter_choices.png)
+
+Light Theme
+{: .fs-7 }
 ![Configurable Options Screenshot](/assets/images/markup_screenshots/cmark-gfm-options.png)
 
 
