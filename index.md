@@ -87,9 +87,9 @@ A fully featured Textile parser in JavaScript
 
 User issues are tracked on GitHub with bug reports and feature requests:  
 
-[Bug Report](https://github.com/ideasawakened/universalmarkupeditor/issues/new?labels=bug&template=bug_report.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Bug Report](https://github.com/ideasawakened/universalmarkupeditor/issues/new?labels=bug&template=bug_report.md){: .btn .btn-primary .fs-3 .mb-4 .mb-md-0 .mr-2 }
 
-[Feature Request](https://github.com/ideasawakened/universalmarkupeditor/issues/new?labels=enhancement&template=feature_request.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Feature Request](https://github.com/ideasawakened/universalmarkupeditor/issues/new?labels=enhancement&template=feature_request.md){: .btn .btn-primary .fs-3 .mb-4 .mb-md-0 .mr-2 }
 
 You can also reach us online at:
 https://twitter.com/ideasawakened
