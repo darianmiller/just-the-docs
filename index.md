@@ -6,91 +6,92 @@ description: "Edit multiple flavors of Markdown, reStructuredText, and Textile w
 permalink: /
 ---
 
-# Focus on writing good documentation - testing change to fs2
-{: .fs-2 }
+# Universal Markup Editor Documentation
+{: .fs-9 }
 
-testing Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Edit multiple flavors of lightweight markup languages with live HTML preview
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Buy It Now](https://www.microsoft.com/en-us/store/apps/windows/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## Getting started
+# Markup Support
+Current support for Markdown, TextTile, and reStructuredText in different flavors
 
-### Dependencies
+## Markdown
+Various markdown converters are supported, with customizable options for most:
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+### cmark-gfm (DLL)
+* GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C
+* [GitHub Repository](https://github.com/github/cmark-gfm)
+* [BSD 2-Clause License Text](ume://License_DLL_JohnMacFarlane_cmark_gfm.md)
 
-### Quick start: Use as a GitHub Pages remote theme
+### CommonMark (DLL)
+* CommonMark parsing and rendering library and program in C, by John MacFarlane
+* [GitHub Repository](https://github.com/commonmark/cmark)
+* [BSD 2-Clause License Text](ume://License_DLL_JohnMacFarlane_CommonMark.md)
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-```yaml
-remote_theme: pmarsceill/just-the-docs
-```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
+### CommonMark (JavaScript)
+* CommonMark parser and renderer in JavaScript
+* [GitHub Repository](https://github.com/commonmark/commonmark.js)
+* [BSD 2-Clause License Text](ume://License_JS_JohnMacFarlane_CommonMark.md)
 
-### Local installation: Use the gem-based theme
+### Delphi Markdown
+* Markdown Processor for Pascal (Delphi/FPC), by Health Intersections Pty Ltd
+* [GitHub Repository](https://github.com/grahamegrieve/delphi-markdown)
+* [Apache License Text](ume://License_GrahameGrieve_DelphiMarkdown.md)
 
-1. Install the Ruby Gem
-```bash
-$ gem install just-the-docs
-```
-```yaml
-# .. or add it to your your Jekyll site’s Gemfile
-gem "just-the-docs"
-```
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-```yaml
-theme: "just-the-docs"
-```
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-```bash
-$ bundle exec just-the-docs rake search:init
-```
-3. Run you local Jekyll server
-```bash
-$ jekyll serve
-```
-```bash
-# .. or if you're using a Gemfile (bundler)
-$ bundle exec jekyll serve
-```
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
+### markdown-it
+Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. Used by Azure DevOps/VSTS.
+* [GitHub Repository](https://github.com/markdown-it/markdown-it)
+* [MIT License Text](ume://License_VitalyPuzrin_AlexKocharin_markdownit.md)
 
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
+### Marked
+* A markdown parser and compiler. Built for speed.
+* [GitHub Repository](https://github.com/markedjs/marked)
+* [MIT License Text](ume://License_ChristopherJeffrey_marked.md)
 
-### Configure Just the Docs
+### Remarkable
+* Markdown parser, done right.
+* [GitHub Repository](https://github.com/jonschlinkert/remarkable)
+* [MIT License Text](ume://License_JonSchlinkert_remarkable.md)
 
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
+### PagedownJS
+The Markdown editor and converter used on Stack Overflow and the other Stack Exchange sites
+* [GitHub Repository](https://github.com/StackExchange/pagedown)
+* [MIT License Text](ume://License_Pagedown.md)
+
+### ShowdownJS
+A bidirectional Markdown to HTML to Markdown converter written in Javascript
+* [GitHub Repository](https://github.com/showdownjs/showdown)
+* [MIT License Text](ume://License_Showdown.md)
+
+
+## reStructured Text
+
+### RST to HTML Renderer
+* [GitHub Repository](https://github.com/thoward/rst2html)
+* [MIT License Text](ume://License_TroyHoward_rst2html.md)
+
+## Textile
+
+### textile.js
+A fully featured Textile parser in JavaScript
+* [GitHub Repository](https://github.com/borgar/textile-js)
+* [MIT License Text](ume://License_Borgar_textile.md)
 
 ---
 
-## About the project
+## Contact Us
 
-Just the Docs is &copy; 2017-2019 by [Patrick Marsceill](http://patrickmarsceill.com).
+User issues are tracked on GitHub with bug reports and feature requests:
+[Bug Report](https://github.com/ideasawakened/universalmarkupeditor/issues/new?labels=bug&template=bug_report.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Feature Request](https://github.com/ideasawakened/universalmarkupeditor/issues/new?labels=enhancement&template=feature_request.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-### License
+You can also reach us online at:
+https://twitter.com/ideasawakened
+https://www.facebook.com/ideasawakened/
+https://www.linkedin.com/company/ideasawakened
 
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
-
-### Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
-
-#### Thank you to the contributors of Just the Docs!
-
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>
-
-### Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+Universal Markup Editor is &copy; 2020 by [Ideas Awakened Inc](https://www.ideasawakened.com).
