@@ -11,9 +11,6 @@ permalink: /
 
 Windows text editor supporting mulitiple flavors of markup with live HTML preview
 {: .fs-6 .fw-300 }
-
-[Buy It Now](https://www.microsoft.com/en-us/store/apps/windows/){: .btn .fs-5 .mb-4 .mb-md-0 }
-
 Coming soon
 {: .label .label-yellow }
 
@@ -22,10 +19,11 @@ Dark theme by default
 {: .fs-6 } 
 ![Dark Mode Screenshot](/assets/images/universalmarkupeditor_darkmode_markupconverter_choices.png)
 
-Light theme also available, set via menu or hotkey **CTRL-D** 
+Light theme also available
 {: .fs-6 }
 ![Configurable Options Screenshot](/assets/images/markup_screenshots/cmark-gfm-options.png)
-
+Theme easily toggled via menu or with hotkey **CTRL-D**
+{: .fs-4 }
 
 ## Contact Us
 
