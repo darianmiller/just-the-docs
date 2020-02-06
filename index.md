@@ -95,5 +95,3 @@ You can also reach us online at:
 https://twitter.com/ideasawakened
 https://www.facebook.com/ideasawakened/
 https://www.linkedin.com/company/ideasawakened
-
-Universal Markup Editor is &copy; 2020 by [Ideas Awakened Inc](https://www.ideasawakened.com).
