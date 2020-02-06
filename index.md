@@ -18,12 +18,12 @@ Coming soon
 {: .label .label-yellow }
 
 
-Dark Theme
-{: .fs-7 }
+Dark theme by default
+{: .fs-6 } 
 ![Dark Mode Screenshot](/assets/images/universalmarkupeditor_darkmode_markupconverter_choices.png)
 
-Light Theme
-{: .fs-7 }
+Light theme also available
+{: .fs-6 }
 ![Configurable Options Screenshot](/assets/images/markup_screenshots/cmark-gfm-options.png)
 
 
