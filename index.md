@@ -16,10 +16,11 @@ Edit multiple flavors of lightweight markup languages with live HTML preview
 
 Coming soon
 {: .label .label-yellow }
----
-![Example Screenshot](/assets/images/markup_screenshots/cmark-gfm-options.png)
 
----
+
+![Dark Mode Screenshot](/assets/images/universalmarkupeditor_darkmode_markupconverter_choices.png)
+![Configurable Options Screenshot](/assets/images/markup_screenshots/cmark-gfm-options.png)
+
 
 ## Contact Us
 
