@@ -4,7 +4,7 @@ title: Main Features
 nav_order: 2
 ---
 
-![Dark Mode Screenshot](/assets/images/MainEditorScreenFeatures.png)
+![Dark Mode Screenshot](/just-the-docs/assets/images/MainEditorScreenFeatures.png)
 
 Items marked in image above:
 1. Markup text editor pane
