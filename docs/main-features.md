@@ -27,7 +27,7 @@ The view can be quickly customized by hiding individual components, either via t
 
 ## View Hotkeys
 | Hokey | Action |
-| --- | --- |
+|:---|:---|
 | CTRL-G | Editor gutter toggle visibility | 
 | CTRL-L | File Selection Panel toggle visibility | 
 | CTRL-M | Markup Converter Selection Panel toggle visibility | 
@@ -38,7 +38,7 @@ The view can be quickly customized by hiding individual components, either via t
 
 ## File Hotkeys
 | Hokey | Action |
-| --- | --- |
+|:---|:---|
 | CTRL-N | Start editing a new document |
 | CTRL-O | Open the File Open dialog |
 | CTRL-S | Save changes to the current document |
@@ -48,7 +48,7 @@ The view can be quickly customized by hiding individual components, either via t
 
 ## Edit Hotkeys
 | Hokey | Action |
-| --- | --- |
+|:---|:---|
 | CTRL-Z | Undo the last edit |
 | SHIFT-CTRL-Z | Redo the last undo action |
 | CTRL-DEL | Delete selected text |
@@ -65,7 +65,7 @@ The view can be quickly customized by hiding individual components, either via t
 
 ## Additional Hotkeys
 | Hokey | Action |
-| --- | --- |
+|:---|:---|
 | CTRL-F1 | Export the current HTML document body to the clipboard |
 | CTRL-F2 | Export the current full HTML document to the clipboard |
 | CTRL-F3 | Export the current HTML document body to a file |
