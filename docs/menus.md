@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Menus
+title: Menus and Dialogs
 nav_order: 3
 ---
 
@@ -11,7 +11,7 @@ nav_order: 3
 * Export HTML to clipboard or file, just the Body or the full HTML document including CSS
 
 ![Dark Mode Screenshot](/just-the-docs/assets/images/menu_screenshots/EditMenu.png)
-* Standard editor options like Cut, Copy, Paste, Select All, Delete
+* Standard editor options Cut, Copy, Paste, Select All, Delete
 * Plus Undo and Redo options
 
 ![Dark Mode Screenshot](/just-the-docs/assets/images/menu_screenshots/SearchMenu.png)
@@ -20,10 +20,26 @@ nav_order: 3
 * Plus a Go To Line Number with drop-down history list 
 
 ![Dark Mode Screenshot](/just-the-docs/assets/images/menu_screenshots/ViewMenu.png)
+* Preview the HTML document in the system's default Browser
+* Toggle main edit window panes: Editor, HTML Preview, Dual Pane
+* Simple toggles to show/hide feature panels: Editor Gutter, File Selection, and Markup Conversion panels
+* Toggle between Dark and Light themes
 
 ![Dark Mode Screenshot](/just-the-docs/assets/images/menu_screenshots/HelpMenu.png)
+* Web links to online GitHub issues and company social media
+* View latest release notes
+* View open source acknowledgements
 
-![Dark Mode Screenshot](/just-the-docs/assets/images/menu_screenshots/FindTextMenu.png)
-![Dark Mode Screenshot](/just-the-docs/assets/images/menu_screenshots/ReplaceTextMenu.png)
-![Dark Mode Screenshot](/just-the-docs/assets/images/menu_screenshots/GoToLineNumber.png)
+![Dark Mode Screenshot](/just-the-docs/assets/images/menu_screenshots/FindTextDialog.png)
+* Standard search options of Find, Previous, with Up and Down direction
+* Plus case sensitive and whole word only options
+
+![Dark Mode Screenshot](/just-the-docs/assets/images/menu_screenshots/ReplaceTextDialog.png)
+* Standard replace options of Find, Replace, Replace All, Up and Down direction
+* Plus case sensitive and whole word only options
+* Plus limited to current selection or entire file
+
+![Dark Mode Screenshot](/just-the-docs/assets/images/menu_screenshots/GoToLineNumberDialog.png)
+* Simple jump to line number
+* Plus 20-item history list of recently utilized line numbers for repetitive section jumping
 
