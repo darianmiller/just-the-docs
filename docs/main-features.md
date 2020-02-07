@@ -17,7 +17,7 @@ Items marked in image above:
 8. Multi-tabbed editor, with simple asterick to show changed files
 9. File selection panel drive selector
 10. Directory selector
-11. Height size adjuster
+11. Panel size adjuster
 12. File extension filter
 13. File selector (can open a single file by double-click or multi-select then drag-n-drop files to editor) 
 14. Refreshes the File Selection Panel based on the file currently being edited
@@ -32,9 +32,9 @@ The view can be quickly customized by hiding individual components, either via t
 
 | Hokey | Action |
 |:-------------|:------------------|
-| CTRL-G | Editor gutter toggle visibility | 
-| CTRL-L | File Selection Panel toggle visibility | 
-| CTRL-M | Markup Converter Selection Panel toggle visibility | 
+| CTRL-G | Toggle visibility of the Editor Gutter  | 
+| CTRL-L | Toggle visibility of the File Selection Panel | 
+| CTRL-M | Toggle visibility of the Markup Converter Selection Panel | 
 | CTRL-1 | View the Markup Editor Panel, hide the HTML Preview |  
 | CTRL-2 | View the Markup Editor and HTML Preview Panels | 
 | CTRL-3 | View the HTML Preview Panel, hide the Markup Editor |
@@ -47,7 +47,6 @@ The view can be quickly customized by hiding individual components, either via t
 | CTRL-N | Start editing a new document |
 | CTRL-O | Open the File Open dialog |
 | CTRL-S | Save changes to the current document |
-| CTRL-S | Save changes to the current document |
 | CTRL-W | Close the current document |
 | CTRL-F4 | Closes the program |
 
@@ -59,7 +58,6 @@ The view can be quickly customized by hiding individual components, either via t
 | SHIFT-CTRL-Z | Redo the last undo action |
 | CTRL-DEL | Delete selected text |
 | CTRL-A | Select all text |
-| F8 | View the HTML document in the default browser |
 | CTRL-F | Open the Find Text dialog |
 | CTRL-R | Open the Replace Text dialog |
 | F3 | Continue the last Find Text action |
@@ -73,6 +71,7 @@ The view can be quickly customized by hiding individual components, either via t
 
 | Hokey | Action |
 |:-------------|:------------------|
+| F8 | View the HTML document in the default browser |
 | CTRL-F1 | Export the current HTML document body to the clipboard |
 | CTRL-F2 | Export the current full HTML document to the clipboard |
 | CTRL-F3 | Export the current HTML document body to a file |
