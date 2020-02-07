@@ -6,9 +6,9 @@ nav_order: 3
 
 ## File Menu
 ![Dark Mode Screenshot](/just-the-docs/assets/images/menu_screenshots/FileMenu.png)
-* Typical windows editor options for New, Open, Save, Save As, Close, Close-All
-* Plus a Recent File list feature with a clear list option
-* Export HTML to clipboard or file, just the Body or the full HTML document including CSS
+* Standard editor options for New, Open, Save, Save As, Close, Close-All
+* Plus a Recent File List feature, including a clear list option
+* Export generated HTML to the clipboard or to a file; can export just the Body or the full HTML document including CSS
 
 ## Edit Menu
 ![Dark Mode Screenshot](/just-the-docs/assets/images/menu_screenshots/EditMenu.png)
@@ -36,12 +36,12 @@ nav_order: 3
 
 ## Find Dialog
 ![Dark Mode Screenshot](/just-the-docs/assets/images/menu_screenshots/FindTextDialog.png)
-* Standard search options of Find, Previous, with Up and Down direction
+* Standard editor search options of Find, Previous, with Up and Down direction
 * Plus case sensitive and whole word only options
 
 ## Replace Dialog
 ![Dark Mode Screenshot](/just-the-docs/assets/images/menu_screenshots/ReplaceTextDialog.png)
-* Standard replace options of Find, Replace, Replace All, Up and Down direction
+* Standard editor replace options of Find, Replace, Replace All, Up and Down direction
 * Plus case sensitive and whole word only options
 * Plus limited to current selection or entire file
 
