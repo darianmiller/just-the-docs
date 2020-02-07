@@ -14,6 +14,7 @@ Windows text editor supporting mulitiple flavors of markup with live HTML previe
 Coming soon
 {: .label .label-yellow }
 
+[Buy on the Microsoft Store](ms-windows-store://pdp/?productid=9PKX8ZTF6LR2){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 Dark theme by default
 {: .fs-6 } 
@@ -34,6 +35,6 @@ User issues are tracked on GitHub with bug reports and feature requests:
 [Feature Request](https://github.com/ideasawakened/universalmarkupeditor/issues/new?labels=enhancement&template=feature_request.md){: .btn .btn-primary .fs-3 .mb-4 .mb-md-0 .mr-2 }
 
 You can also reach us online at:
-https://twitter.com/ideasawakened
-https://www.facebook.com/ideasawakened/
-https://www.linkedin.com/company/ideasawakened
+* [Twitter](https://twitter.com/ideasawakened)
+* [Facebook](https://www.facebook.com/ideasawakened)
+* [LinkedIn](https://www.linkedin.com/company/ideasawakened)

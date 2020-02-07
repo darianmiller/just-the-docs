@@ -36,7 +36,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "View on the Microsoft Store":
-    - "//www.microsoft.com/en-us/store/apps/windows/"
+    - "//www.microsoft.com/store/apps/9PKX8ZTF6LR2"
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2020 Ideas Awakened Inc.  All Rights Reserved"
