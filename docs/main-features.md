@@ -15,7 +15,11 @@ Items marked in image above:
 6. Markup and Preview splitter can adjust the panel width
 7. Editor gutter shows current line number and recent changes made (Green lines have been saved, Yellow have not)
 8. Multi-tabbed editor, with simple asterick to show changed files
-9-13. File selection panel: drive, directory and file selectors along with file filter and splitter controls for adjusting height and width
+9. File selection panel drive selector
+10. Directory selector
+11. Height size adjuster
+12. File extension filter
+13. File selector (can open a single file by double-click or multi-select then drag-n-drop files to editor) 
 14. Refreshes the File Selection Panel based on the file currently being edited
 15. Easily hides the File Selection Panel (also availble via hotkey)
 16. View the current HTML generated document in the default browser (also availble via hotkey)
@@ -23,11 +27,11 @@ Items marked in image above:
 18. Split pane view of Markup and HTML (also availble via hotkey)
 19. Focus on the HTML preview - hides the markup panel (also availble via hotkey)
 
-The view can be quickly customized by hiding individual components, either via the menu or from hotkeys:
-
+The view can be quickly customized by hiding individual components, either via the menu or from hotkeys
 ## View Hotkeys
+
 | Hokey | Action |
-|:---|:---|
+|:-------------|:------------------|
 | CTRL-G | Editor gutter toggle visibility | 
 | CTRL-L | File Selection Panel toggle visibility | 
 | CTRL-M | Markup Converter Selection Panel toggle visibility | 
@@ -37,8 +41,9 @@ The view can be quickly customized by hiding individual components, either via t
 | CTR-D | Toggle Dark/Light Theme | 
 
 ## File Hotkeys
+
 | Hokey | Action |
-|:---|:---|
+|:-------------|:------------------|
 | CTRL-N | Start editing a new document |
 | CTRL-O | Open the File Open dialog |
 | CTRL-S | Save changes to the current document |
@@ -47,8 +52,9 @@ The view can be quickly customized by hiding individual components, either via t
 | CTRL-F4 | Closes the program |
 
 ## Edit Hotkeys
+
 | Hokey | Action |
-|:---|:---|
+|:-------------|:------------------|
 | CTRL-Z | Undo the last edit |
 | SHIFT-CTRL-Z | Redo the last undo action |
 | CTRL-DEL | Delete selected text |
@@ -64,8 +70,9 @@ The view can be quickly customized by hiding individual components, either via t
 
 
 ## Additional Hotkeys
+
 | Hokey | Action |
-|:---|:---|
+|:-------------|:------------------|
 | CTRL-F1 | Export the current HTML document body to the clipboard |
 | CTRL-F2 | Export the current full HTML document to the clipboard |
 | CTRL-F3 | Export the current HTML document body to a file |
